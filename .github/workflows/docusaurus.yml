@@ -50,8 +50,6 @@ jobs:
         env:
           USE_SSH: true
           GIT_USER: code-13
-          DEPLOYMENT_BRANCH: gh-pages
-          CURRENT_BRANCH: docusaurus
         run: |
           git config --global user.email "actions@gihub.com"
           git config --global user.name "gh-actions"
