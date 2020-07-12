@@ -1,11 +1,11 @@
 module.exports = {
   title: '我的React',
   tagline: 'React学习资料',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://code-13.github.io',
+  baseUrl: '/react-labs/',
   favicon: 'img/favicon.ico',
   organizationName: 'code-13', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'react-labs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
